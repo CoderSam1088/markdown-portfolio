@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+- [x] Here is a list item that's done
+- [ ] Here is a list item that is not done
